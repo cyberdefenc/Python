@@ -1,0 +1,3 @@
+Q1. np.hstack((arr1,arr2)) //Horizontally Arranges the matrix
+Q2. np.vstack((arr1,arr2)) //Vertically Arranges the matrix
+Q3. Q3s1

@@ -1,0 +1,6 @@
+Q1. Create 2D list
+Q1s1 Convert 2D list to 2D array
+Q2. 2D array slicing
+Q3 View and copy us
+Q4 Condtional Selection in array
+Q5. Operations on array

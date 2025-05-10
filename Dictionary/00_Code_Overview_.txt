@@ -1,0 +1,18 @@
+Dictionary is a collection which unordered,it is changeable and indexed. Written in curly brackets,it has keys and values
+
+dict1={"Hello":"Inida","Model":"BM36"}
+
+Q1. Create  and display Dictionary
+Q2. Acessing Dictionary itmes one by one
+
+Q2s1. Acessing Dictionary itmes one by one another way
+
+Q2s2. Use get method for Acessing Dictionary itmes one by one another way
+
+Q3. Use values() function
+Q3s1. Use for x in dict1
+Q3s2. Use items() method
+Q4. Change values
+Q5. Key exist or not
+Q6. Add new items to Dictionary
+Q7. Dictionary inbuilt functions

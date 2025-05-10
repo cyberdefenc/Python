@@ -1,0 +1,3 @@
+Q1. Use of map()
+Q2. Find max number using reduce() and then use of lambda
+Q3. Use sort()

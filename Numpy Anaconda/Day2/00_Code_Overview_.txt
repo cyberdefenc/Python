@@ -1,0 +1,3 @@
+Q1.Make 2D array using numpy
+Q1s1. Make 2D array using numpy different way
+Q2. Use myarr.shape

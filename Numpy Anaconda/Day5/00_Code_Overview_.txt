@@ -1,0 +1,6 @@
+Q1. Reshape array or convert 1D array to 2D array and vice-versa
+Q1s1. Find the dimension
+Q2. Convert to 3d array
+Q3. Reshape array but only provide rows
+Q3s1. Reshape array but only proivde columns
+Q4  Use seed

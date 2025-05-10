@@ -1,0 +1,3 @@
+Q1. Make user defined list and convert to 1D array
+Q1s1. size,shape etc
+Q2. Slicing in 1d array

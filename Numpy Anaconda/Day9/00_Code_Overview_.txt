@@ -1,0 +1,7 @@
+Q1. Find key in array
+Q2. Use searchsorted()
+Q3. Use searchsorted() for right to left
+Q4. Lambda function with single argument
+Q5. Lambda function with multiple argument
+Q6. Use flter()
+Q7. Find even from list using filter() and then convert function to lambda function

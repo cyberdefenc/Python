@@ -1,0 +1,20 @@
+tuple1=();
+tuple is immutable
+tuple takes less memory as compared to list
+
+Q1. Print and display Tuple
+Q2. Check size difference in List and Tuple
+Q3. Check time difference in List and Tuple
+Q4. Different ways to create tuple
+Q5. Convert  string to character in tuple
+Q6. List to tuple
+Q7. Traversing tuple elements one by one
+Q7s1. Traversing tuple elements one by one range(len(tuple1))
+Q8. Join two different tuples
+Q9. Repeating or replicating tuple
+Q10. Slicing of tuples
+Q11. Tuple function
+Q12. How to change tuple elements
+Q13. Check if item Exists
+Q14. Add items in tuple by converting it in list then again in tuple
+Q15. Delete Whole tuple using del keyword

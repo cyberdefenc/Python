@@ -1,0 +1,1 @@
+Q1. A number is given, so find the sum of each even digits of that number and product of each odd digits

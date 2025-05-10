@@ -1,0 +1,10 @@
+Q1. Make zero 1D array of size 5
+Q2. Make zero 1D array of size ((2,3))
+Q3. Give 1 in diagonal by using eye
+Q3s1. Give 1 in diagonal by using eye if row and column is different
+Q4. Fit all elements in Diagonal using diag
+Q4s1. Print out diagonal elements only 
+Q5. Generate random numbers in a given range using random.randint
+Q6 Generate a random values between 0 to 1 use random.rand
+Q6s1. As a 2D array Generate a random values between 0 to 1 use random.rand
+Q6s2. use randn as per Q6s1

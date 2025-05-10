@@ -1,0 +1,15 @@
+{
+  "python.defaultInterpreterPath": "C:\\Users\\Admin\\anaconda3\\envs\\learning\\python.exe",
+  "python.terminal.activateEnvironment": true,
+  "python.analysis.autoImportCompletions": true,
+  "python.formatting.provider": "black",
+  "editor.formatOnSave": true,
+  "jupyter.notebookFileRoot": "${workspaceFolder}",
+  "jupyter.condaPath": "C:\\Users\\Admin\\anaconda3\\Scripts\\conda.exe",
+  "python.linting.enabled": true,
+  "python.linting.pylintEnabled": true,
+  "python.linting.pylintArgs": [
+    "--disable=C0111"
+  ],
+  "jupyter.interactiveWindow.creationMode": "perFile"
+}

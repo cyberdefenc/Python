@@ -1,0 +1,4 @@
+Q1. Create a list and print it
+Q2. Create 1D array using numpy and list
+Q3. Direct make array only with numpy
+Q4. Make empty array and take input from user

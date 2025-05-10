@@ -1,0 +1,24 @@
+Numpy functions for 1D,2D Arrays
+
+axis of row =1
+axis of col=0
+
+Q1. np.min(arr)
+Q2. np.max(arr)
+Q3. np.argmin(arr)
+Q4. np.argmin(arr)
+Q5. np.sqrt(arr)
+Q6. np.sin(arr)
+Q7. np.cos(arr)
+Q8. np.linespace(start valye,end value,step value)
+Q9. np.matrix(arr) or matrix.sum()
+Q10. np.min(matrix, axis=1) // row wise min value
+Q11. np.max(matrix, axis=0) // col wise max value
+Q12. np.sum(matrix, axis=1) // row wise min value
+Q13. np.min(matrix, axis=1) // row wise min value
+Q14. np.cumsum(matrix) // preceeding terms sum + successor term 
+Q15. np.cumsum(matrix, axis =0)
+Q16. np.random.shuffle(arr)  //Change each element position
+Q17. np.unique(arr)  //will eleminate repeating elements
+Q18. np.unique(arr).size  //counts total numbers of unique elements
+Q19. np.unique(arr,return_index=True,return_counts=True)

@@ -1,0 +1,23 @@
+
+ Syntax : fileobj=open("file_name",mode)
+  mode means r,w,a
+
+  IF no mode given file automatically open in Read mode
+
+  read()
+
+  file1.close()  // to close a file
+
+P1. Opening a file
+P2. readline()
+P3. readlines()
+P4. What if the file is in another drive like here in our case it's in E drive,How will you open it
+P5. If read first 10 character then read next 10 charcter more
+P6. Read whole file at once
+P7. Read whole file using readline()
+
+-----------------
+FILE WRITING
+
+P8. write() function use
+P9. write() function use and use \n
