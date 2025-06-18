@@ -3,9 +3,9 @@ from PIL import Image, ImageTk
 import os
 
 
-mahmudul_root = Tk()
-mahmudul_root.title("Image Viewer")
-mahmudul_root.geometry("955x944")
+bob_root = Tk()
+bob_root.title("Image Viewer")
+bob_root.geometry("955x944")
 
 
 image_path = "../Images/2.jpg" 
@@ -18,11 +18,11 @@ else:
     photo = ImageTk.PhotoImage(image)
 
     
-    varun_label = Label(mahmudul_root, image=photo)
-    varun_label.pack()
+    arun_label = Label(bob_root, image=photo)
+    arun_label.pack()
 
     
-    varun_label.image = photo
+    arun_label.image = photo
 
 
-mahmudul_root.mainloop()
+bob_root.mainloop()

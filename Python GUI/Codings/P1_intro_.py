@@ -1,10 +1,10 @@
 from tkinter import *
 
-rahulrathva_root = Tk()
+ut_root = Tk()
 
 # gui logic here
 
-rahulrathva_root.mainloop()
+ut_root.mainloop()
 
 
-# Ouestions - Tkinter
+
