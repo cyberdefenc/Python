@@ -1,0 +1,114 @@
+P1. Intro to tkinter
+P2. Max and min size of window
+P3. Default size of windows when opened
+P4. GUI naming
+P5. pn and jpg adding
+P6. frames
+P7. Button
+P8. User input
+P9.
+
+
+----------------------------------------------------------
+variables classes in tkinter:-
+Booleanvar, Doublevar, Intvar, Stringvar
+
+----------------------------------------------------------
+
+1. Create a basic window with a custom title and fixed size
+Requirements:
+
+Set title to: "My First GUI"
+
+Window size: 400x300
+
+📚 Concepts: geometry, title
+
+2. Add a Label widget that says “Welcome to Python GUI”
+Requirements:
+
+Use Label()
+
+Set background color to light blue
+
+Text should be center aligned
+
+📚 Concepts: Label, pack, bg, text
+
+3. Create a Button that exits the application
+Requirements:
+
+Button label: "Exit"
+
+Function: Closes the window
+
+📚 Concepts: Button, command=rahulrathva_root.destroy
+
+4. Accept user name input and display it on button click
+Requirements:
+
+Use Entry() for input
+
+Add a button "Submit" to show name on a label below
+
+📚 Concepts: Entry, Button, Label, StringVar, pack()
+
+5. Create a Frame that contains two buttons side by side
+Requirements:
+
+Frame with blue background and border
+
+Add two buttons inside frame horizontally: "Login" and "Register"
+
+📚 Concepts: Frame, Button, pack(side=LEFT)
+
+6. Build a simple calculator for addition
+Requirements:
+
+Two entry boxes
+
+A button "Add"
+
+A label to show the result
+
+📚 Concepts: Entry, int(), Button, Label, grid() or pack()
+
+7. Use grid() layout to align widgets
+Requirements:
+
+2 labels ("Username", "Password")
+
+2 entry boxes below them
+
+1 button: "Login"
+
+📚 Concepts: grid(row=, column=)
+
+8. Create a check box to accept terms & conditions
+Requirements:
+
+A Checkbutton
+
+Button should be active only if checkbox is checked
+
+📚 Concepts: Checkbutton, IntVar, state=DISABLED
+
+9. Add a drop-down menu for course selection
+Requirements:
+
+Use OptionMenu
+
+Show courses like: Python, Java, C++
+
+Button to print selected course
+
+📚 Concepts: OptionMenu, StringVar
+
+10. Build a small login form with validation
+Requirements:
+
+Entry for Username and Password
+
+Validate: If username is "admin" and password "123", show "Success" else "Try Again"
+
+📚 Concepts: Entry, get(), if-else, Label
